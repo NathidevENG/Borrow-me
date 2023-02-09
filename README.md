@@ -1,2 +1,2 @@
 # Borrow-me
-For money lending projects
+For money lending fintech projects
